@@ -1,5 +1,5 @@
 /**
- * Valida un campo input type=date de un formulario donde pida la fecha de 
+ * Valida un campo input de un formulario donde pida la fecha de 
  * nacimiento
  */
  const $form = document.querySelector('form')
